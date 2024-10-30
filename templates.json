@@ -4983,7 +4983,7 @@
         "Taskserver"
       ],
       "description": "Create agents that monitor and act on your behalf.",
-      "image": "huginn/huginn:latest",
+      "image": "huginn/huginn:087bcdd8f21ead2dd4e587b554e8248e5ffd4b99",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/huginn.png",
       "name": "huginn",
       "platform": "linux",
